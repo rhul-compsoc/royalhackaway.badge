@@ -1,8 +1,8 @@
 # royalhackaway.badge
 
-PCB Badges for Royal Hackaway V5, currently still in development (and in need of sponsors)
+PCB Badges for Royal Hackaway v6 (no PCBs at v5), currently still in development (and in need of sponsors)
 
-- [Royal Hackaway V5](https://royalhackaway.com/events/hackawayv5/)
+- [Royal Hackaway v5](https://royalhackaway.com/events/hackawayv5/)
 
 ## Images
 
